@@ -1,7 +1,10 @@
-D:\CTS\student\student\src\main\java\com\stackroute\student\controller\StudentController.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\exception\StudentAlreadyExistsException.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\repository\StudentRepo.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\StudentApplication.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\exception\StudentNotExistsException.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\model\Student.java
-D:\CTS\student\student\src\main\java\com\stackroute\student\service\StudentService.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/StudentApplication.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/controller/Restcontroller.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/model/Student.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/service/StudentService.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/exception/StudentAlreadyExistsException.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/repository/StudentRepo.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/model/Entity.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/exception/StudentNotExistsException.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/controller/StudentController.java
+/workspaces/loanapp_springboot/student/src/main/java/com/stackroute/student/model/Table.java
